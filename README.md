@@ -9,4 +9,4 @@ I've got you covered.
 
 ## Screenshots
 ![Normal mode](http://i.imgur.com/ituA2gU.jpg)
-![Rainbow mode](http://i.imgur.com/12dzpIo.gifv)
+![Rainbow mode](http://i.imgur.com/12dzpIo.gif)
