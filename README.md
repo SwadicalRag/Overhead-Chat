@@ -6,6 +6,7 @@ I've got you covered.
  - [**FREE**](https://scriptfodder.com/scripts/view/1871/)
  - A literal "drag & drop to your addons folder" installation
  - RAINBOW MODE! (`overheadchat_rainbow 1` clientside)
+ - An option to prevent PMs or commands from being shown overhead (`overheadchat_echocommands 0` clientside)
 
 ## Screenshots
 ![Normal mode](http://i.imgur.com/ituA2gU.jpg)
