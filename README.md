@@ -5,7 +5,8 @@ I've got you covered.
  - Compatible with any coherently coded chatbox
  - [**FREE**](https://scriptfodder.com/scripts/view/1871/)
  - A literal "drag & drop to your addons folder" installation
- - RAINBOW MODE! (`overheadchat_rainbow 1` serverside)
+ - RAINBOW MODE! (`overheadchat_rainbow 1` clientside)
 
 ## Screenshots
-(soon)
+![Normal mode](http://i.imgur.com/ituA2gU.jpg)
+![Rainbow mode](http://i.imgur.com/12dzpIo.gifv)

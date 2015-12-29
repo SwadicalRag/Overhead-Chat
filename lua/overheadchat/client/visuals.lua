@@ -1,8 +1,8 @@
 local chatIcon = Material("icon16/comment.png","noclamp smooth")
-
-OverheadChat.Rainbow = false
+local rainbowCVarOverride = CreateClientConVar("overheadchat_rainbow","0",true,false)
 
 hook.Add("PostDrawTranslucentRenderables","swadical.OverheadChat.Draw",function()
+    OverheadChat.Rainbow = rainbowCVarOverride:GetBool()
     local font = "DermaLarge"
     local textDrawCol,backgroundDrawCol
 
