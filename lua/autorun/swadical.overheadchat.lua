@@ -1,3 +1,5 @@
+if SERVER then AddCSLuaFile() end
+
 OverheadChat = {}
 
 OverheadChat.DEBUG = false
