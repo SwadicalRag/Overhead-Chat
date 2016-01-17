@@ -1,7 +1,7 @@
 OverheadChat:logDebug("Flagging files to be sent to the client...")
 
 local function walkFolder(path)
-    local files,folders = file.Find("lua/"..path.."*","GAME")
+    local files,folders = file.Find(path.."*","LSV")
 
     for _,fileName in ipairs(files) do
         OverheadChat:logDebug(("AddCSLuaFile(%q)"):format(path..fileName))
